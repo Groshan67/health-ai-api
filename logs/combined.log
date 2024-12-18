@@ -1,0 +1,8 @@
+2024-12-17 15:09:27 [info]: Request: Model=gpt-3.5-turbo, Messages=[{"role":"system","content":"You are a code generator."},{"role":"user","content":"Generate a Python function to sort a list."}]
+2024-12-17 15:09:27 [error]: Error: Failed to call OpenAI API
+2024-12-17 15:11:34 [info]: Request: Model=gpt-3.5-turbo, Messages=[{"role":"system","content":"You are a code generator."},{"role":"user","content":"Generate a Python function to sort a list."}]
+2024-12-17 15:11:34 [error]: Error: Failed to call OpenAI API
+2024-12-17 15:11:54 [info]: Request: Model=gpt-3.5-turbo, Messages=[{"role":"system","content":"You are a code generator."},{"role":"user","content":"Generate a Python function to sort a list."}]
+2024-12-17 15:11:55 [error]: Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-12-17 15:12:06 [info]: Request: Model=gpt-3.5-turbo, Messages=[{"role":"system","content":"You are a code generator."},{"role":"user","content":"Generate a Python function to sort a list."}]
+2024-12-17 15:12:07 [error]: Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
